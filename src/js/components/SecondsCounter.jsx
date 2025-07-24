@@ -3,7 +3,7 @@ const SecondsCounter = ({ digitOne, digitTwo, digitThree }) => {
         <div className="text-center">
             <h1 className="mb-4 text-warning">
                 <i className="fa-regular fa-clock me-3 text-warning"></i>
-                Contador Simple
+                Seconds Counter
             </h1>
 
             <div className="d-flex justify-content-center gap-3 fs-1 fw-bold">
